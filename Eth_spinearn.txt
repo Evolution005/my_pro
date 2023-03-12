@@ -9,14 +9,14 @@
 		"Banner": "Admob"
 	},
 	"Admob": {
-		"Admob_adstatus": false,
+		"Admob_adstatus": true,
 		"Admob_Appopen": "/22349270898,22827158175/177fa1f9-582e-442c-8537-502a401de91a/e9ef7e5a-f2b2-46de-895f-827e45284b55/e9ef7e5a-f2b2-46de-895f-827e45284b55-last",
 		"Admob_Interstrial": "/22349270898,22827158175/177fa1f9-582e-442c-8537-502a401de91a/2459b33a-434e-4766-a1c0-b68475268e49/2459b33a-434e-4766-a1c0-b68475268e49-last",
 		"Admob_Native": "/22349270898,22827158175/177fa1f9-582e-442c-8537-502a401de91a/4aa3b769-0bf1-496a-a265-84ebe27995fa/4aa3b769-0bf1-496a-a265-84ebe27995fa-last",
 		"Admob_Banner": "/22349270898,22827158175/177fa1f9-582e-442c-8537-502a401de91a/752a951a-ddc2-401b-a0f6-096e94423970/752a951a-ddc2-401b-a0f6-096e94423970-last"
 	},
 	"Facebook": {
-		"FB_adstatus": true,
+		"FB_adstatus": false,
 		"FB_Interstrial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 		"FB_Native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 		"FB_Banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
